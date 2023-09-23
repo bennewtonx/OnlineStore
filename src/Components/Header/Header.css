@@ -1,0 +1,29 @@
+.header-container {
+    height: 40px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+.header-home-categories {
+    width: 10%;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+
+.header-about-contact {
+    width: 10%;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+
+.header-divider {
+    position: absolute;
+    top: 4%;
+    left: 5%;
+    height: 0.1px;
+    width: 90%;
+    z-index: -1;
+}

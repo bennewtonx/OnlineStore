@@ -1,0 +1,21 @@
+.homepage-category-container {
+    height: 400px;
+    display: flex;
+    flex-wrap: nowrap;
+
+    overflow: hidden;
+
+    background-color: aqua;
+}
+
+.homepage-category-background {
+    height: 400px;
+}
+
+.category-box {
+
+    height: 400px;
+    width: 400px;
+    background-color: blueviolet;
+    margin: 10px 20px 10px 20px;
+}
